@@ -55,7 +55,7 @@ Antes de entregar, revisá **cada punto** de esta lista. Si algo no se cumple, e
 
 ## 6. Idioma y textos
 
-- [ ] **Todos** los textos visibles están en español: botones, títulos, menús, placeholders.
+- [ ] Todos los textos visibles están en español: botones, títulos, menús, placeholders.
 - [ ] Los mensajes de validación están en español ("El email es obligatorio", no "This field is required").
 - [ ] Las alertas y mensajes de error del framework están traducidos o interceptados.
 - [ ] Los mensajes de error de la base de datos nunca se muestran crudos al usuario.
@@ -94,7 +94,7 @@ Antes de entregar, revisá **cada punto** de esta lista. Si algo no se cumple, e
 - [ ] No quedan `var_dump`, `console.log`, `dd()` ni mensajes de debug visibles.
 - [ ] El modo debug está apagado en producción.
 - [ ] Recorriste el sistema completo desde cero, en una ventana de incógnito, como si fueras un usuario nuevo.
-- [ ] **Se lo hiciste probar a alguien ajeno al grupo** y pudo usarlo sin ayuda.
+- [ ] Se lo hiciste probar a alguien ajeno al grupo y pudo usarlo sin ayuda.
 - [ ] La entrega incluye: URL de producción, URL del repositorio, usuarios de prueba e integrantes e Informe completo.
 - [ ] Entregado en tiempo y forma según lo pedido en la consigna.
 
@@ -146,8 +146,8 @@ Antes de entregar, revisá **cada punto** de esta lista. Si algo no se cumple, e
 
 ## 18. Modelos 
 
-- [ ]Realizó y dejó plasmado en el informe el diagrama del MODELO lógico de Datos
-- [ ]Realizó y dejó plasmado en el informe el diagrama del MODELO Físico
+- [ ] Realizó y dejó plasmado en el informe el diagrama del MODELO lógico de Datos
+- [ ] Realizó y dejó plasmado en el informe el diagrama del MODELO Físico
 
 ## 19. Check List 
 

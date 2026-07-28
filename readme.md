@@ -194,7 +194,7 @@ El informe debe incluir una sección "Uso de herramientas de IA" (media carilla 
 - [ ] *Qué verificaron y cómo*: para el código y los datos generados, qué chequearon
       a mano, qué corrigieron y por qué.
 
-Si el grupo no usó ninguna herramienta de IA, también debe declararlo.
+Si el grupo no utilizó ninguna herramienta de IA, también debe declararlo.
 
 
 *Si un ítem no aplica a tu proyecto, dejalo marcado  y aclaralo en el README. Fundamentar el por qué no aplica dicho item*

@@ -101,35 +101,35 @@ Antes de entregar, revisá **cada punto** de esta lista. Si algo no se cumple, e
 ---
 ## Informe final
 
-## 1. Formato General
+## 11. Formato General
 
 - [ ] Posee carátula con datos de identificación del equipo como del trabajo
 - [ ] Posee Indice completo navegable
 
-## 2. Audiencia
+## 12. Audiencia
 
 - [ ] Definió la audiencia describiendo la misma
 - [ ] Clasificó la audiencia según las caracteristicas que define la Guía Web de Chile
 
-## 3. Estructura del Sitio
+## 13. Estructura del Sitio
 
 - [ ]  Realizó el Árbol Funcional de Contenido según la definición de la Guía Web de Chile.
 
-## 4. Estructura del Sitio
+## 14. Estructura del Sitio
 
 - [ ] Realizó los diagramas de estructura de todas las páginas.
 - [ ] Realizó los diagramas de flujo de todas las páginas con transacción.
 
-## 5. Sistema de Navegación
+## 15. Sistema de Navegación
 
 - [ ] Definió el sistema de navegación.
 - [ ] Listó todos los elementos de navegación del sitio clasificándolos en Textuales y Contextuales.
 
-## 6. Diseño Visual
+## 16. Diseño Visual
 
 - [ ] Realizó los bocetos o maquetas del sitio completo.
 
-## 7. Presupuesto Económico 
+## 17. Presupuesto Económico 
 
 - [ ] Realizó el diagrama de Gantt con las actividades que deben realizar para llevar a cabo el proyecto.
 - [ ] Definió los costos en recursos humanos para el proyecto.
@@ -137,13 +137,19 @@ Antes de entregar, revisá **cada punto** de esta lista. Si algo no se cumple, e
 - [ ] Realizó la estimación del tamaño del proyecto según Puntos de Función.
 - [ ] Calculó el costo y el precio del sitio web.
 - [ ] Armó y dejó plasmado en el informe un presupuesto modelo con la información que analizó para entregar a un cliente.
+- [ ] Los valores del presupuesto se citan de fuentes reales. Valor hora hombre, costo de hosting, amortizaciones y cualquier otro monto deben tener fuente
+      verificable y fecha. Un número generado por IA sin fuente se considera un dato inventado e invalida la sección.
+- [ ] No se cargan credenciales, datos reales de usuarios ni volcados de la base de datos en herramientas públicas de IA. Vale como criterio profesional, no solo
+      como regla de la materia.
+- [ ] Los diagramas, modelos y checklists los interpreta el grupo. Se puede usar IA para producirlos, pero la fundamentación tiene que ser propia y coherente con el
+      sistema entregado.
 
-## 8. Modelos 
+## 18. Modelos 
 
 - [ ]Realizó y dejó plasmado en el informe el diagrama del MODELO lógico de Datos
 - [ ]Realizó y dejó plasmado en el informe el diagrama del MODELO Físico
 
-## 9. Check List 
+## 19. Check List 
 
 - [ ] Realizó los check list de Usabilidad y fundamentó los items que no se cumplen o no aplican.
 - [ ] Realizó los check list de Accesibilidad y fundamentó los items que no se cumplen o no aplican.
@@ -153,7 +159,7 @@ Antes de entregar, revisá **cada punto** de esta lista. Si algo no se cumple, e
 - [ ] Realizó los check list de Comprensibilidad y fundamentó los items que no se cumplen o no aplican.
 - [ ] Realizó los check list de Robustez y fundamentó los items que no se cumplen o no aplican.
 
-## 10. Test de Validación de Estándares
+## 20. Test de Validación de Estándares
 
 - [ ] Realizó los test de validación de HTML.
 - [ ] Realizó los test de validación de CSS.
@@ -163,6 +169,32 @@ Antes de entregar, revisá **cada punto** de esta lista. Si algo no se cumple, e
 - [ ] Realizó los cambios sugeridos por los test de validación.
 - [ ] Fundamentó los cambios realizados según lo solicitado por los test de validación.
 - [ ] En caso de haber tenido que realizar modificaciones, volvió a pasar los test, y pegó cada reporte.
+
+--
+## 21. Uso de herramientas de IA
+
+El uso de herramientas de inteligencia artificial (Claude, ChatGPT, Copilot, generadores
+de UI, etc.) *está permitido* en este trabajo. No está permitido entregar código que el
+grupo no pueda explicar.
+
+### Qué se evalúa
+
+La entrega se evalúa sobre aquello que el grupo puede sostener, no sobre lo que está escrito.
+**Cada integrante debe poder explicar cualquier línea del código entregado y cualquier
+decisión del informe**, sin importar quién o qué la haya generado. Si no lo pueden
+explicar, no deben entregarlo.
+
+### Anexar al informe
+
+El informe debe incluir una sección "Uso de herramientas de IA" (media carilla alcanza no debe ser extenso) con:
+
+- [ ] *Qué herramientas usaron* (nombre y versión aproximada).
+- [ ] *Para qué las usaron*: código, redacción del informe, diagramas, estimaciones,
+      debugging, traducción, etc.
+- [ ] *Qué verificaron y cómo*: para el código y los datos generados, qué chequearon
+      a mano, qué corrigieron y por qué.
+
+Si el grupo no usó ninguna herramienta de IA, también debe declararlo.
 
 
 *Si un ítem no aplica a tu proyecto, dejalo marcado  y aclaralo en el README. Fundamentar el por qué no aplica dicho item*
